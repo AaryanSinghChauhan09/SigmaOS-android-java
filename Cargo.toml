@@ -1,10 +1,10 @@
 [package]
-name = "SigmaOS-android-java"
+name = "sigmaos_android_java"
 version = "0.1.0"
 edition = "2021"
-license = "Apache-2.0"
-description = "SigmaOS component - part of multi-repository architecture"
+license = "MIT"
+description = "SigmaOS android-java component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [lib]
-name = "android-java"
+name = "sigmaos_android_java"
 path = "src/lib.rs"
